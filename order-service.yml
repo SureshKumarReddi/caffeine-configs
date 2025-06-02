@@ -3,4 +3,4 @@ spring:
     name: order-service
 
 order:
-  default-message: "Your order is being processed! enjoy your coffee"
+  default-message: "Your order is being processed!"
